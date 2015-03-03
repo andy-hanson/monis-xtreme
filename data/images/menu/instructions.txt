@@ -1,0 +1,6 @@
+To make overlay:
+  random noise
+  median rad 20
+  saturation -> 200
+  saturation -> 200
+  dents scale 200 amount 40 detail 0 roughness 0 turbulence 8

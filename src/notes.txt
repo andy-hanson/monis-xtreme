@@ -1,0 +1,7 @@
+Item costs:
+BigBomb: 1
+Verti: 4/8
+Horiz: 3/8
+Score +10: 4/8
+Star: 1
+Pause: 0
